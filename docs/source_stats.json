@@ -1,0 +1,14 @@
+{
+  "existing_gesture_lines": 384,
+  "lyric_lines": 481,
+  "cpp_lines": 518,
+  "hand_server_lines": 57,
+  "cmake_lines": 26,
+  "cue_count": 15,
+  "first_cue_seconds": 8.0,
+  "last_cue_seconds": 70.0,
+  "particle_count": 6000,
+  "filter_count": 3,
+  "gesture_labels": 8,
+  "lyric_dimensions": 270
+}

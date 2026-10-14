@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="325" viewBox="0 0 900 325" role="img" aria-label="Source-based overview of included components and native dependencies">
+<title>Runtime components</title>
+<rect width="100%" height="100%" rx="20" fill="#0c1222"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#e7ebff} .muted{fill:#9baacf}</style>
+<text x="40" y="53" font-size="24" font-weight="bold">CAC THANH PHAN DA XAC MINH</text>
+<rect x="35" y="95" width="276" height="194" rx="15" fill="#202b48" stroke="#4f6cb5"/>
+<text x="53" y="127" font-size="21" font-weight="bold">Gesture Particles</text>
+<text x="53" y="162" font-size="15">Python / MediaPipe</text>
+<text x="53" y="202" font-size="20" font-weight="bold">6.000 particles</text>
+<text x="53" y="249" font-size="13">1-8 ngon -&gt; chu; 10 -&gt; tim</text>
+<rect x="330" y="95" width="276" height="194" rx="15" fill="#202b48" stroke="#4f6cb5"/>
+<text x="348" y="127" font-size="21" font-weight="bold">Lyric Cards</text>
+<text x="348" y="162" font-size="15">Python / Tkinter</text>
+<text x="348" y="202" font-size="20" font-weight="bold">15 moc thoi gian</text>
+<text x="348" y="249" font-size="13">Typewriter + nhac tuy chon</text>
+<rect x="625" y="95" width="276" height="194" rx="15" fill="#202b48" stroke="#4f6cb5"/>
+<text x="643" y="127" font-size="21" font-weight="bold">Magic Lens</text>
+<text x="643" y="162" font-size="15">C++20 / CUDA</text>
+<text x="643" y="202" font-size="20" font-weight="bold">3 bo loc ROI</text>
+<text x="643" y="249" font-size="13">Thermal / Sketch / Blur</text>
+</svg>

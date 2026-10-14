@@ -1,0 +1,26 @@
+# Virtual environments and Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# IDE / system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Build and temporary data
+build/
+CMakeFiles/
+*.o
+*.obj
+*.exe
+*.zip
+*.log
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+# Copyrighted audio tracks: add only with permission
+lyric_cards/music/*.mp3
